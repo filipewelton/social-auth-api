@@ -10,5 +10,5 @@ API para autenticação com conta social, tendo duas opções de serviços: <b>G
   <li>NestJS</li>
   <li>Passport</li>
   <li>Passport-Facebook</li>
-  <li>Passport-Google-Aauth20</li>
+  <li>Passport-Google-Oauth20</li>
 </ul>
