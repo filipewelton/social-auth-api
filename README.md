@@ -3,4 +3,4 @@
 ![GitHub](https://img.shields.io/github/license/filipewelton/social-auth-api?style=flat-square)
 
 <h1>Introdução</h1>
-API para autenticação com conta social, tendo duas opções de disponíveis: <b<font color="red">Google</font></b> e <b color="blue">Facebook</b>.
+API para autenticação com conta social, tendo duas opções de disponíveis: <font color="red">Google</font> e <b color="blue">Facebook</b>.
