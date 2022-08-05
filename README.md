@@ -4,3 +4,4 @@
 
 <h1>Introdução</h1>
 API para autenticação com conta social, tendo duas opções de disponíveis: <font color="red">Google</font> e <b color="blue">Facebook</b>.
+<font color="red">This text is red!</font>
