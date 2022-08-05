@@ -1,8 +1,8 @@
 # social-auth-api
 ![GitHub](https://img.shields.io/badge/filipewelton-social--auth--api-red)
-![GitHub](https://img.shields.io/badge/OAuth2.0-Google-orange)
-![GitHub](https://img.shields.io/badge/Tech-Passport-orange)
-![GitHub](https://img.shields.io/badge/OAuth2.0-Facebook-orange)
+![GitHub](https://img.shields.io/badge/OAuth2.0-Google-blue)
+![GitHub](https://img.shields.io/badge/Tech-Passport-blue)
+![GitHub](https://img.shields.io/badge/OAuth2.0-Facebook-blue)
 ![GitHub](https://img.shields.io/github/license/filipewelton/social-auth-api?style=flat-square)
 
 
